@@ -1,0 +1,20 @@
+{
+  "mes": "ENERO",
+  "fechaProceso": "2023-07-19",
+  "rucEmpresa": "12345678901",
+  "cuentaPrincipal": "202354564897",
+  "valorReal": 5000.00,
+  "valorTotal": 0,
+  "empleadoPago": [
+    {
+      "numeroCuenta": "2121564564",
+      "valor": 3000.00,
+      "estado": "PEN"
+    },
+    {
+      "numeroCuenta": "123456789",
+      "valor": 2000.00,
+      "estado": "PEN"
+    }
+  ]
+}

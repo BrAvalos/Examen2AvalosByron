@@ -1,0 +1,19 @@
+{
+  "ruc": "12345678901",
+  "razonSocial": "JBR COMPANY",
+  "cuentaPrincipal": "202354564897",
+  "empleado": [
+    {
+      "cedulaIdentidad": "1752101475",
+      "apellidos": "Avalos Pérez",
+      "nombres": "Byron Roberto",
+      "numeroCuenta": "2121564564"
+    },
+    {
+      "cedulaIdentidad": "1752101459",
+      "apellidos": "Silva Toapanta",
+      "nombres": "Jennifer Pamela",
+      "numeroCuenta": "123456789"
+    }
+  ]
+}
